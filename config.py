@@ -1,7 +1,7 @@
 from zoneinfo import ZoneInfo
 
 # Настройки Telegram
-BOT_TOKEN = "8780845755:AAF3x4THn65dArQ4h5Rj--TpK0L0GJXeEHI"
+BOT_TOKEN = "YOUR_BOT_TOKEN"
 TIMEZONE = ZoneInfo("Europe/Moscow")
 
 # Настройки локальной нейросети (LM Studio)
